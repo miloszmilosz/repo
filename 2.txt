@@ -13,7 +13,7 @@ className = document.documentElement
 
 
 ]).push(function(){mw.config.set
-
+23213
 wgCanonicalNamespace":"","wgCanonical
 
 SpecialPageName":false,"wgNamespaceNumber
