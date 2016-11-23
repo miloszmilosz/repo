@@ -15,7 +15,7 @@ className = document.documentElement
 ]).push(function(){mw.config.set
 
 wgCanonicalNamespace":"","wgCanonical
-
+214234
 SpecialPageName":false,"wgNamespaceNumber
 ":0,"wgPageName":"Kod_Ÿród³owy","wgTitle":
 "Kod Ÿród³owy","wgCurRevisionId":47110054,
