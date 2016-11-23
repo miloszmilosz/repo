@@ -1,0 +1,68 @@
+
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pl&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.2"/>
+<meta name="referrer" content="originyZIAAAAK","wgIsProbablyEditable"<html class="client-nojs" lang="pl" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Kod Ÿród³owy – Wikipedia,
+ wolna encyklopedia</title>
+<script>document.documentElement.
+className = document.documentElement
+
+
+.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[
+
+
+
+]).push(function(){mw.config.set
+
+wgCanonicalNamespace":"","wgCanonical
+
+SpecialPageName":false,"wgNamespaceNumber
+":0,"wgPageName":"Kod_Ÿród³owy","wgTitle":
+"Kod Ÿród³owy","wgCurRevisionId":47110054,
+"wgRevisionId":47110054,"wgArticleId":3151,
+
+["*"],"wgCategories":["Artyku³y wymagaj¹ce 
+uzupe³nienia Ÿróde³ od 2012-07","Kod Ÿród³o
+wy"],"wgBreakFrames":false,"wgPageContentLa
+nguage":"pl","wgPageContentModel":"wikitext
+","wgSeparatorTransformTable":[",\t."," \t,
+"],"wgDigitTransformTable":["",""],"wgDefau
+ltDateFormat":"dmy","wgMonthNames":["","styc
+zeñ","luty","marzec","kwiecieñ","maj","czerw
+iec","lipiec","sierpieñ","wrzesieñ","paŸdzie
+rnik","listopad","grudzieñ"],"wgMonthNamesShort":["","s 
+ty","lut","mar","kwi","maj","cze","lip","sie","wrz","pa
+Ÿ","lis","gru"],"wgRelevantPageName":"Kod_Ÿród³owy","w
+gRelevantArticleId":3151,"wgRequestId":"WCxDVQpAI
+DMA:true,"wgRestrictionEdit":[],"wgRestrictionMo
+ve":[],"wgFlaggedRevsParams":{"tags":{"accuracy"
+:{"levels":1,"quality":2,"pristine":4}}},"wgStab
+leRevisionId":47110054,"wgWikiEditorEnabledModul
+es":{"toolbar":true,"dialogs":true,"preview":fals
+e,"publish":false},"wgBetaFeaturesFeatures":[],"w
+
+gMediaViewerOnClick":true,"wgMediaViewerEnabledByDefau
+lt":true,"wgVisualEditor":{"pageLanguageCode":"pl",
+"pageLanguageDir":"ltr","usePageImages":true,"usePa
+geDescriptions":true},"wgPreferredVariant":"pl","wg
+MFDisplayWikibaseDescriptions":{"search":true,"ne
+arby":true,"watchlist":true,"tagline":true},"wgRe
+latedArticles":null,"wgRelatedArticlesUseCirrusSe
+
+[],"wgCentralNoticeCategoriesUsingLegacy":["Fundr
+aising","fundraising"],"wgCategoryTreePageCategor
+yOptions":"{\"mode\":0,\"hideprefix\":20,
+\":true,\"namespaces\":false}","wgWikibaseItemId"
+:"Q128751","wgCentralAuthMobile
+
+Domain":false,"wgVisualEditorToolbarScroll
+
+
+
+-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pl.m.wikipedia.org/wiki/Kod_%C5%BAr%C3%B3d%C5%82owy"/>
+<link rel="alternate" type="application/x-wik
