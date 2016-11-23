@@ -36,7 +36,7 @@ iec","lipiec","sierpieñ","wrzesieñ","paŸdzie
 rnik","listopad","grudzieñ"],"wgMonthNamesShort":["","s 
 ty","lut","mar","kwi","maj","cze","lip","sie","wrz","pa
 Ÿ","lis","gru"],"wgRelevantPageName":"Kod_Ÿród³owy","w
-gRelevantArticleId":3151,"wgRequestId":"WCxDVQpAI
+gRelevantArticleId":3151,"wgRequestId":"W43534CxDVQpAI
 DMA:true,"wgRestrictionEdit":[],"wgRestrictionMo
 ve":[],"wgFlaggedRevsParams":{"tags":{"accuracy"
 :{"levels":1,"quality":2,"pristine":4}}},"wgStab

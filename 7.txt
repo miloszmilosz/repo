@@ -30,7 +30,7 @@ SpecialPageName":false,"wgNamespaceNumber
 ["*"],"wgCategories":["Artyku³y wymagaj¹ce 
 uzupe³nienia Ÿróde³ od 2012-07","Kod Ÿród³o
 wy"],"wgBreakFrames":false,"wgPageContentLa
-nguage":"pl","wgPageContentModel":"wikitext
+nguage":"pl","wgPageContentModel"sadasd:"wikitext
 ","wgSeparatorTransformTable":[",\t."," \t,
 "],"wgDigitTransformTable":["",""],"wgDefau
 ltDateFormat":"dmy","wgMonthNames":["","styc

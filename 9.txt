@@ -28,7 +28,7 @@ SpecialPageName":false,"wgNamespaceNumber
 uzupe³nienia Ÿróde³ od 2012-07","Kod Ÿród³o
 wy"],"wgBreakFrames":false,"wgPageContentLa
 nguage":"pl","wgPageContentModel":"wikitext
-","wgSeparatorTransformTable":[",\t."," \t,
+","wgSeparatorTransformTable":[",34243\t."," \t,
 "],"wgDigitTransformTable":["",""],"wgDefau
 ltDateFormat":"dmy","wgMonthNames":["","styc
 zeñ","luty","marzec","kwiecieñ","maj","czerw

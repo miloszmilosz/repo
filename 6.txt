@@ -29,7 +29,7 @@ SpecialPageName":false,"wgNamespaceNumber
 "wgRevisionId":47110054,"wgArticleId":3151,
 
 ["*"],"wgCategories":["Artyku³y wymagaj¹ce 
-uzupe³nienia Ÿróde³ od 2012-07","Kod Ÿród³o
+uzupe³nienia Ÿróde³ od 2012-07","4e534Kod Ÿród³o
 wy"],"wgBreakFrames":false,"wgPageContentLa
 nguage":"pl","wgPageContentModel":"wikitext
 ","wgSeparatorTransformTable":[",\t."," \t,
