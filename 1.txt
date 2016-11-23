@@ -1,7 +1,7 @@
-<html class="client-nojs" lang="pl" dir="ltr">
+<html class="client-nojs" lang="pl" dir="ltr"> JULO WPROWADZI≈Å ZMIANE
 <head>
-<meta charset="UTF-8"/>
-<title>Kod ürÛd≥owy ñ Wikipedia,
+<meta charset="UTF-8"/> julo i milosz zmieniaja plik
+<title>Kod ≈∏r√≥d¬≥owy ‚Äì Wikipedia,
  wolna encyklopedia</title>
 <script>document.documentElement.
 className = document.documentElement
@@ -17,20 +17,20 @@ className = document.documentElement
 wgCanonicalNamespace":"","wgCanonical
 
 SpecialPageName":false,"wgNamespaceNumber
-":0,"wgPageName":"Kod_ürÛd≥owy","wgTitle":
-"Kod ürÛd≥owy","wgCurRevisionId":47110054,
+":0,"wgPageName":"Kod_≈∏r√≥d¬≥owy","wgTitle":
+"Kod ≈∏r√≥d¬≥owy","wgCurRevisionId":47110054,
 "wgRevisionId":47110054,"wgArticleId":3151,
 
-["*"],"wgCategories":["Artyku≥y wymagajπce 
-uzupe≥nienia ürÛde≥ od 2012-07","Kod ürÛd≥o
+["*"],"wgCategories":["Artyku¬≥y wymagaj¬πce 
+uzupe¬≥nienia ≈∏r√≥de¬≥ od 2012-07","Kod ≈∏r√≥d¬≥o
 wy"],"wgBreakFrames":false,"wgPageContentLa
 nguage":"pl","wgPageContentModel":"wikitext
 ","wgSeparatorTransformTable":[",\t."," \t,
 "],"wgDigitTransformTable":["",""],"wgDefau
 ltDateFormat":"dmy","wgMonthNames":["","styc
-zeÒ","luty","marzec","kwiecieÒ","maj","czerw
-iec","lipiec","sierpieÒ","wrzesieÒ","paüdzie
-rnik","listopad","grudzieÒ"],"wgMonthNamesShort":["","s 
+ze√±","luty","marzec","kwiecie√±","maj","czerw
+iec","lipiec","sierpie√±","wrzesie√±","pa≈∏dzie
+rnik","listopad","grudzie√±"],"wgMonthNamesShort":["","s 
 ty","lut","mar","kwi","maj","cze","lip","sie","wrz","pa
-ü","lis","gru"],"wgRelevantPageName":"Kod_ürÛd≥owy","w
+≈∏","lis","gru"],"wgRelevantPageName":"Kod_≈∏r√≥d¬≥owy","w
 gRelevantArticleId":3151,"wgRequestId":"WCxDVQpAIDMA
