@@ -1,6 +1,6 @@
-<html class="client-nojs" lang="pl" dir="ltr"> JULO WPROWADZIŁ ZMIANE
-<head>
-<meta charset="UTF-8"/> julo i milosz zmieniaja plik
+<html class="client-nojs" lang="pl" dir="ltr">
+<head> MILOSZ CHANGE MILOSZ
+<meta charset="UTF-8"/> MILOSZ MILOSZ A JULIO
 <title>Kod Ÿród³owy – Wikipedia,
  wolna encyklopedia</title>
 <script>document.documentElement.
