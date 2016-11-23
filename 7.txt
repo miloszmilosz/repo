@@ -3,7 +3,8 @@ src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/50p
 <td class="ambox-text"><b>Ten artyku³ od 2012-07 wymaga <a href="/wiki/Wikipedia:Weryfikowalno%C5%9B%C4%87" title="Wikipedia:Weryfikowalnoœæ">zweryfikowania</a> podanych informacji.</b><br />
 Nale¿y zamieœciæ <a href="/wiki/Pomoc:Przypisy" title="Pomoc:Przypisy">przypisy</a> do materia³ów opublikowanych w wiarygodnych Ÿród³ach.<br />
 <small>Czêœæ lub nawet wszystkie informacje w artykule mog¹ byæ nieprawdziwe. Jako pozbawione Ÿróde³ mog¹ zostaæ zakwestionowane i usuniête.</small><br />
-<span style="color: DimGray; fyZIAAAAK","wgIsProbablyEditable"<html class="client-nojs" lang="pl" dir="ltr">
+<span style="color: DimGray; fyZIAAZMIANA
+AAK","wgIsProbablyEditable"<html class="client-nojs" lang="pl" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
 <title>Kod Ÿród³owy – Wikipedia,

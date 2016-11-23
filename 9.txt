@@ -8,7 +8,7 @@
  wolna encyklopedia</title>
 <script>document.documentElement.
 className = document.documentElement
-
+afdsf
 
 .className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
 <script>(window.RLQ=window.RLQ||[

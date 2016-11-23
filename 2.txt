@@ -3,7 +3,7 @@ yZIAAAAK","wgIsProbablyEditable"<html class="client-nojs" lang="pl" dir="ltr">
 <meta charset="UTF-8"/>
 <title>Kod Ÿród³owy – Wikipedia,
  wolna encyklopedia</title>
-<script>document.documentElement.
+<script>document.documentEleasdasdasment.
 className = document.documentElement
 
 

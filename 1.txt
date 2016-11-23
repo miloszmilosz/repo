@@ -1,9 +1,9 @@
-<html class="client-nojs" lang="pl" dir="ltr"> 
+﻿<html class="client-nojs" lang="pl" dir="ltr"> 
 <head>
 <meta charset="UTF-8"/>
 <title>Kod Ÿród³owy – Wikipedia,
  wolna encyklopedia</title>
-<script>document.documentElement.
+<script>document.documentElement.zmaina
 className = document.documentElement
 
 

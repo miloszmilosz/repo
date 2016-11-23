@@ -1,9 +1,9 @@
-
+s
 <li class="toclevel-2 tocsection-8"><a href="#C.2B.2B"><span class="tocnumber">6.2</span> <span class="toctext">C++</span></a></li>
 <li class="toclevel-2 tocsection-9"><a href="#C.23"><span class="tocnumber">6.3</span> <span class="toctext">C#</span></a></li>
 <li class="toclevel-2 tocsection-10"><a href="#D"><span class="tocnumber">6.4</span> <span class="toctext">D</span></a></li>
 <li class="toclevel-2 tocsection-11"><a href="#F.23"><span class="tocnumber">6.5</span> <span class="toctext">F#</span></a></li>
-<li class="toclevel-2 tocsection-12"><ayZIAAAAK","wgIsProbablyEditable"<html class="client-nojs" lang="pl" dir="ltr">
+<li class="toclevel-2 tocsecsdasdstion-12"><ayZIAAAAK","wgIsProbablyEditable"<html class="client-nojs" lang="pl" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
 <title>Kod Ÿród³owy – Wikipedia,

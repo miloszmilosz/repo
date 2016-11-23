@@ -3,7 +3,7 @@ ralAuthMobileDomain":false,"wgVyZIAAAAK","wgIsProbablyEditable"<html class="clie
 <meta charset="UTF-8"/>
 <title>Kod Ÿród³owy – Wikipedia,
  wolna encyklopedia</title>
-<script>document.documentElement.
+<script>document.documentElezmianment.
 className = document.documentElement
 
 

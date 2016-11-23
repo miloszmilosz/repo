@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Kod Ÿród³owy – Wikipedia,
- wolna encyklopedia</title>
+ wolna encyklopedia</title>e3w5tgerf
 <script>document.documentElement.
 className = document.documentElement
 

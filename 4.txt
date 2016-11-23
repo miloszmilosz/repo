@@ -15,7 +15,7 @@ className = document.documentElement
 
 
 
-]).push(function(){mw.config.set
+]).push(funct345345ion(){mw.config.set
 
 wgCanonicalNamespace":"","wgCanonical
 
