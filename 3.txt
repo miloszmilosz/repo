@@ -29,7 +29,7 @@ nguage":"pl","wgPageContentModel":"wikitext
 "],"wgDigitTransformTable":["",""],"wgDefau
 ltDateFormat":"dmy","wgMonthNames":["","styc
 zeñ","luty","marzec","kwiecieñ","maj","czerw
-iec","lipiec","sierpieñ","wrzesieñ","paŸdzie
+iec","lipiec","sierpi32545eñ","wrzesieñ","paŸdzie
 rnik","listopad","grudzieñ"],"wgMonthNamesShort":["","s 
 ty","lut","mar","kwi","maj","cze","lip","sie","wrz","pa
 Ÿ","lis","gru"],"wgRelevantPageName":"Kod_Ÿród³owy","w
