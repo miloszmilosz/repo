@@ -1,6 +1,6 @@
-<html class="client-nojs" lang="pl" dir="ltr"> 2 zmiana jr
-<head> MILOSZ CHANGE MILOSZ
-<meta charset="UTF-8"/> MILOSZ MILOSZ A JULIO 2 zmiana jr
+<html class="client-nojs" lang="pl" dir="ltr"> 
+<head>
+<meta charset="UTF-8"/>
 <title>Kod Ÿród³owy – Wikipedia,
  wolna encyklopedia</title>
 <script>document.documentElement.
