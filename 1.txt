@@ -1,4 +1,4 @@
-<html class="client-nojs" lang="pl" dir="ltr"> 
+﻿<html class="client-nojs" lang="pl" dir="ltr"> 
 <head>
 <meta charset="UTF-8"/>
 <title>Kod Ÿród³owy – Wikipedia,
@@ -16,7 +16,7 @@ className = document.documentElement
 
 wgCanonicalNamespace":"","wgCanonical
 
-SpecialPageName":false,"wgNamespaceNumber
+SpecialPageName21312":false,"wgNamespaceNumber
 ":0,"wgPageName":"Kod_Ÿród³owy","wgTitle":
 "Kod Ÿród³owy","wgCurRevisionId":47110054,
 "wgRevisionId":47110054,"wgArticleId":3151,
