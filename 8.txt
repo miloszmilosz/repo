@@ -1,0 +1,64 @@
+="Kod wynikowy">koduyZIAAAAK","wgIsProbablyEditable"<html class="client-nojs" lang="pl" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Kod Ÿród³owy – Wikipedia,
+ wolna encyklopedia</title>
+<script>document.documentElement.
+className = document.documentElement
+
+
+.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[
+
+
+
+]).push(function(){mw.config.set
+
+wgCanonicalNamespace":"","wgCanonical
+
+SpecialPageName":false,"wgNamespaceNumber
+":0,"wgPageName":"Kod_Ÿród³owy","wgTitle":
+"Kod Ÿród³owy","wgCurRevisionId":47110054,
+"wgRevisionId":47110054,"wgArticleId":3151,
+
+["*"],"wgCategories":["Artyku³y wymagaj¹ce 
+uzupe³nienia Ÿróde³ od 2012-07","Kod Ÿród³o
+wy"],"wgBreakFrames":false,"wgPageContentLa
+nguage":"pl","wgPageContentModel":"wikitext
+","wgSeparatorTransformTable":[",\t."," \t,
+"],"wgDigitTransformTable":["",""],"wgDefau
+ltDateFormat":"dmy","wgMonthNames":["","styc
+zeñ","luty","marzec","kwiecieñ","maj","czerw
+iec","lipiec","sierpieñ","wrzesieñ","paŸdzie
+rnik","listopad","grudzieñ"],"wgMonthNamesShort":["","s 
+ty","lut","mar","kwi","maj","cze","lip","sie","wrz","pa
+Ÿ","lis","gru"],"wgRelevantPageName":"Kod_Ÿród³owy","w
+gRelevantArticleId":3151,"wgRequestId":"WCxDVQpAI
+DMA:true,"wgRestrictionEdit":[],"wgRestrictionMo
+ve":[],"wgFlaggedRevsParams":{"tags":{"accuracy"
+:{"levels":1,"quality":2,"pristine":4}}},"wgStab
+leRevisionId":47110054,"wgWikiEditorEnabledModul
+es":{"toolbar":true,"dialogs":true,"preview":fals
+e,"publish":false},"wgBetaFeaturesFeatures":[],"w
+
+gMediaViewerOnClick":true,"wgMediaViewerEnabledByDefau
+lt":true,"wgVisualEditor":{"pageLanguageCode":"pl",
+"pageLanguageDir":"ltr","usePageImages":true,"usePa
+geDescriptions":true},"wgPreferredVariant":"pl","wg
+MFDisplayWikibaseDescriptions":{"search":true,"ne
+arby":true,"watchlist":true,"tagline":true},"wgRe
+latedArticles":null,"wgRelatedArticlesUseCirrusSe
+
+[],"wgCentralNoticeCategoriesUsingLegacy":["Fundr
+aising","fundraising"],"wgCategoryTreePageCategor
+yOptions":"{\"mode\":0,\"hideprefix\":20,
+\":true,\"namespaces\":false}","wgWikibaseItemId"
+:"Q128751","wgCentralAuthMobile
+
+Domain":false,"wgVisualEditorToolbarScroll
+
+
+
+ wynikowego</a>, najczêœciej <a href="/wiki/J%C4%99zyk_maszynowy" title="Jêzyk maszynowy">kodu maszynowego</a>, jako jedynego mo¿liwego do wykonania przez <a href="/wiki/Procesor" title="Procesor">procesor</a>. Inn¹ metod¹ jest wykonywanie w czasie rzeczywistym („w locie”) programu zapisanego kodem Ÿród³owym przy pomocy <a href="/wiki/Interpreter_(program_komputerowy)" title="Interpreter (program komputerowy)">interpretera</a> lub tzw. kompilatora <a href="/wiki/JIT_(informatyka)" title="JIT (informatyka)">JIT</a>, który wykonuje kompilacjê fragmentów kodu na bie¿¹co. Okreœlenie „wykonanie kodu Ÿród³owego” jest równowa¿ne wykonaniu programu stworzonego na podstawie tego kodu.</p>
+<p></p>
+<div id="toc" class="toc">
