@@ -1,0 +1,36 @@
+<html class="client-nojs" lang="pl" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Kod Ÿród³owy – Wikipedia,
+ wolna encyklopedia</title>
+<script>document.documentElement.
+className = document.documentElement
+
+
+.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[
+
+
+
+]).push(function(){mw.config.set
+
+wgCanonicalNamespace":"","wgCanonical
+
+SpecialPageName":false,"wgNamespaceNumber
+":0,"wgPageName":"Kod_Ÿród³owy","wgTitle":
+"Kod Ÿród³owy","wgCurRevisionId":47110054,
+"wgRevisionId":47110054,"wgArticleId":3151,
+
+["*"],"wgCategories":["Artyku³y wymagaj¹ce 
+uzupe³nienia Ÿróde³ od 2012-07","Kod Ÿród³o
+wy"],"wgBreakFrames":false,"wgPageContentLa
+nguage":"pl","wgPageContentModel":"wikitext
+","wgSeparatorTransformTable":[",\t."," \t,
+"],"wgDigitTransformTable":["",""],"wgDefau
+ltDateFormat":"dmy","wgMonthNames":["","styc
+zeñ","luty","marzec","kwiecieñ","maj","czerw
+iec","lipiec","sierpieñ","wrzesieñ","paŸdzie
+rnik","listopad","grudzieñ"],"wgMonthNamesShort":["","s 
+ty","lut","mar","kwi","maj","cze","lip","sie","wrz","pa
+Ÿ","lis","gru"],"wgRelevantPageName":"Kod_Ÿród³owy","w
+gRelevantArticleId":3151,"wgRequestId":"WCxDVQpAIDMA
